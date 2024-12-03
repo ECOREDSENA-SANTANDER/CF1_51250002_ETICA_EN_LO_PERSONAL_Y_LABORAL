@@ -68,7 +68,7 @@
         img.img-a.img-t(src='@/assets/curso/temas/img27.png', alt='')
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Razón Social y Protocolo de Servicios
+      h4.mb-0.ps-5.pe-5 Recursos Humanos
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-3.col-md-7.col-7.mb-4
@@ -110,7 +110,7 @@
               | Principios fundamentales del código de ética
             .row.justify-content-center.align-items-center
               .col-lg-8
-                img.mb-2(src='@/assets/curso/temas/img30.png', alt='La imagen presenta las principales características de un código de ética, destacando su naturaleza reflexiva y participativa, su coherencia con la realidad, y la importancia de que esté basado en valores genuinos. Se indica que este debe ser un documento dinámico, que refleje la evolución de las condiciones y permita que los valores éticos sean aplicables diariamente. Además, se resalta la necesidad de difundirlo públicamente para garantizar que los grupos interesados lo conozcan y puedan exigir su cumplimiento.')
+                img.mb-2(src='@/assets/curso/temas/img30.svg', alt='La imagen presenta las principales características de un código de ética, destacando su naturaleza reflexiva y participativa, su coherencia con la realidad, y la importancia de que esté basado en valores genuinos. Se indica que este debe ser un documento dinámico, que refleje la evolución de las condiciones y permita que los valores éticos sean aplicables diariamente. Además, se resalta la necesidad de difundirlo públicamente para garantizar que los grupos interesados lo conozcan y puedan exigir su cumplimiento.')
                 figcaption Fuente: SENA
 
 

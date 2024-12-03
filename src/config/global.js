@@ -107,9 +107,9 @@ export default {
     {
       tema: '1.	Ética Personal',
       referencia:
-        'Fede Mana. (2023, julio). ¿Qué es RELATIVISMO? - FÁCIL, RÁPIDO Y SENCILLO.',
+        'Universidad de Deusto / Deustuko Unibertsitatea. (2020, 13 noviembre). ¿Qué es la ética?',
       tipo: 'Video',
-      link: 'http://youtube.com/watch?v=MRFkafDU5sA&t=38s',
+      link: 'https://youtu.be/pk1jWDZQ55U',
     },
     {
       tema: '3. Misión y Visión Corporativas',

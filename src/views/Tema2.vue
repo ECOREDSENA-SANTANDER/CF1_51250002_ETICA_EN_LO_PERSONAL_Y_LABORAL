@@ -28,7 +28,7 @@
        
         .row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-12
-            .bg4.p-lg-4.p-md-5.p-5
+            .bg4.p-lg-4.p-md-5.p-4
               .row.justify-content-around.align-items-center
                 .col-lg-12
                   .row.justify-content-around.align-items-center
@@ -83,7 +83,7 @@
           .col-lg-5(data-aos="fade-right")
             p.mb-4 Una empresa es una organización conformada por personas que trabajan en conjunto para alcanzar objetivos específicos, con el propósito de obtener beneficios mutuos.
             p.mb-4 El marco que regula las relaciones laborales dentro de la organización se establece en un documento denominado reglamento interno, este instrumento define las normas que garantizan un ambiente de respeto, orden y armonía en el entorno laboral.
-            .bg2.p-4.p-lg-4.p-md-4
+            .bg2.p-4.p-lg-4.p-md-4.mb-4
               p.mb-0 Los reglamentos internos son de cumplimiento obligatorio para los trabajadores e incluyen tanto obligaciones como prohibiciones, su objetivo principal es mantener el equilibrio necesario para la sostenibilidad y el buen funcionamiento de la organización.
           .col-lg-5(data-aos="fade-left")
             .titulo-sexto.color-secundario.mb-4

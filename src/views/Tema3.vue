@@ -6,10 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Razón social, misión y visión corporativas
-
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Ética profesional
-      
+ 
     p.mb-4(data-aos="fade-right") La misión de una organización define su propósito y rol en el mercado, respondiendo preguntas clave como:
 
     .row.fondo3.align-items-center.p-3.mb-5(data-aos="fade-down")

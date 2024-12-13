@@ -30,7 +30,7 @@
                 p.mb-0 ¿Qué la diferencia de sus competidores?
             p.mb-4 #[b Según Rafael Muñiz González en Marketing en el siglo XXI, la misión establece la razón de ser de la empresa, guía sus actividades actuales y futuras, y orienta la toma de decisiones estratégicas.]
           .col-lg-3.col-md-7.col-7(data-aos="fade-left")
-            img.img-a.img-t.mbt2.d-none.d-lg-block(src="@/assets/curso/temas/img25.png")
+            img.img-a.img-t.mbt2.d-none.d-lg-block(src="@/assets/curso/temas/img25.png", alt='Imagen decorativa.')
 
     p.mb-4 Una misión clara permite entender en qué mercado opera, quiénes son sus clientes y contra quién compite, siendo esencial para una dirección estratégica efectiva.
     p.mb-5 La visión proyecta las metas futuras de la organización, marcando un rumbo motivador y realista. Para identificarla, se deben abordar preguntas como:
@@ -41,7 +41,7 @@
 
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-7
-            img.img-a.img-t.mbt2.d-none.d-lg-block(src="@/assets/curso/temas/img26.png")
+            img.img-a.img-t.mbt2.d-none.d-lg-block(src="@/assets/curso/temas/img26.png", alt='Imagen decorativa.')
           .col-lg-5
             ul.lista-ul.mb-4
               li.d-flex.mb-1
@@ -65,14 +65,14 @@
         .cajon.color-primario.p-4.p-lg-4.p-md-4
           p.mb-0 El #[b protocolo de servicios] detalla de manera precisa y estructurada las rutas y procedimientos que sigue una empresa en la ejecución de sus actividades, su propósito es establecer las metodologías y pasos a seguir al momento de ofrecer un servicio, asegurando claridad y eficiencia en su prestación.
       .col-lg-3.col-md-7.col-7.mb-4(data-aos="fade-left")
-        img.img-a.img-t(src='@/assets/curso/temas/img27.png', alt='')
+        img.img-a.img-t(src='@/assets/curso/temas/img27.png', alt='Imagen decorativa.')
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 Recursos Humanos
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-3.col-md-7.col-7.mb-4
-        img.img-a.img-t(src='@/assets/curso/temas/img28.png', alt='')
+        img.img-a.img-t(src='@/assets/curso/temas/img28.png', alt='Imagen decorativa.')
       .col-lg-9.mb-4
         p.mb-4 Se refieren a las personas o grupos que participan en las actividades productivas de bienes y servicios, conformando la población económicamente activa, estos recursos se organizan en torno a cinco funciones fundamentales: #[b planeación, organización, dirección, integración y control,] las cuales son esenciales para garantizar la eficiencia y efectividad en la gestión de una organización.
         .cajon.color-primario.p-4.p-lg-4.p-md-4

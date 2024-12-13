@@ -33,7 +33,7 @@
                 .col-lg-12
                   .row.justify-content-around.align-items-center
                     .col-3.col-sm-2.col-lg-3.d-none.d-lg-block.ps-lg-5
-                      img.img-a.img-t.mbt(src="@/assets/curso/temas/img18.svg")
+                      img.img-a.img-t.mbt(src="@/assets/curso/temas/img18.svg", alt='Imagen decorativa.')
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0
@@ -104,7 +104,7 @@
 
         .row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-3.col-md-7.col-7
-            img.img-a.img-t.mbt1.d-none.d-lg-block(src="@/assets/curso/temas/img23.png")
+            img.img-a.img-t.mbt1.d-none.d-lg-block(src="@/assets/curso/temas/img23.png", alt='Imagen decorativa.')
           .col-lg-5
             ul.lista-ul.mb-4
               li.d-flex.mb-1

@@ -112,9 +112,9 @@ export default {
       link: 'https://youtu.be/pk1jWDZQ55U',
     },
     {
-      tema: '3. Misión y Visión Corporativas',
+      tema: '3. Razón social, misión y visión corporativas',
       referencia:
-        'ILERNA. (2020, 19 octubre). ¿Qué son la Misión, visión y valores?',
+        'ILERNA. (2020, 19 octubre). ¿Qué son la misión, visión y valores?',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=InIuCGq7j94',
     },
@@ -149,7 +149,7 @@ export default {
         'Rama que analiza problemas específicos como bioética o ética profesional.',
     },
     {
-      termino: 'DiÉtica laboral',
+      termino: 'Diética laboral',
       significado:
         'Principios y valores que regulan el comportamiento en el trabajo.',
     },
@@ -267,7 +267,7 @@ export default {
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

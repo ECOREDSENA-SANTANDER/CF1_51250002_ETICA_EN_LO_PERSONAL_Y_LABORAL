@@ -149,7 +149,7 @@ export default {
         'Rama que analiza problemas específicos como bioética o ética profesional.',
     },
     {
-      termino: 'Diética laboral',
+      termino: 'Ética laboral',
       significado:
         'Principios y valores que regulan el comportamiento en el trabajo.',
     },
